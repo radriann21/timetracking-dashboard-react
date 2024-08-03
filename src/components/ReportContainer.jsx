@@ -13,7 +13,7 @@ export const ReportContainer = () => {
   const report = user.report || [];
   
   return (
-    <section className="w-full h-full gap-10 grid grid-cols-1 lg:grid-cols-3 lg:grid-row-2">
+    <section className="w-full h-full grid grid-cols-1 place-items-center gap-5 lg:gap-10 lg:grid-cols-3 lg:grid-row-2 mt-5 lg:mt-0">
       {
         report.length == 0
         ? (<h1>cargando...</h1>)

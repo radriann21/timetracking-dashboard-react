@@ -3,8 +3,8 @@ import { ReportContainer } from "./components/ReportContainer"
 
 function App() {
   return (
-    <main className="max-w-full min-h-screen bg-very-dark-blue flex lg:items-center justify-center">
-      <section className="w-full lg:w-[80%] h-[480px] flex items-center justify-between space-x-12 lg:p-0 px-4">
+    <main className="max-w-full min-h-screen bg-very-dark-blue flex items-center justify-center">
+      <section className="w-full lg:w-[80%] h-full lg:h-[480px] flex lg:flex-row flex-col lg:space-x-12 lg:p-0 p-4">
         <UserCard />
         <ReportContainer />
       </section>

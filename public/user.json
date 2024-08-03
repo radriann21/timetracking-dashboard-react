@@ -5,6 +5,7 @@
   "report": [
     {
       "title": "Work",
+      "icon": "/assets/icons/icon-work.svg",
       "timeframes": {
         "daily": {
           "current": 5,
@@ -22,6 +23,7 @@
     },
     {
       "title": "Play",
+      "icon": "/assets/icons/icon-play.svg",
       "timeframes": {
         "daily": {
           "current": 1,
@@ -39,6 +41,7 @@
     },
     {
       "title": "Study",
+      "icon": "/assets/icons/icon-study.svg",
       "timeframes": {
         "daily": {
           "current": 0,
@@ -56,6 +59,7 @@
     },
     {
       "title": "Exercise",
+      "icon": "/assets/icons/icon-exercise.svg",
       "timeframes": {
         "daily": {
           "current": 1,
@@ -73,6 +77,7 @@
     },
     {
       "title": "Social",
+      "icon": "/assets/icons/icon-social.svg",
       "timeframes": {
         "daily": {
           "current": 1,
@@ -90,6 +95,7 @@
     },
     {
       "title": "Self Care",
+      "icon": "/assets/icons/icon-self-care.svg",
       "timeframes": {
         "daily": {
           "current": 0,
